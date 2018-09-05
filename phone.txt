@@ -1,0 +1,11 @@
+We're going to build a brand new phone!The idea isn't new, but what's we are going to build will change the world.
+
+Specs:
+
+-5.8 inch display.
+-6GB of RAM.
+-Snapdragon 845.
+-Rear 12 megapixel Wide-angle camera.
+-Rear 12 megapixel Telephoto camera.
+-USB type-c connector.
+
